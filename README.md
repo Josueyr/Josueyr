@@ -1,6 +1,6 @@
 # ![ALL OK](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvaTFxcTYxNzI2cGwwN3FqdnljZXFid2c3cTQzNWRtMm04NDlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
  
-#### 👋 Aquí un Desarrollador de Software que sospecha que su pasatiempo favorito es coleccionar pestañas de navegador con "cómo hacer X". 
+#### 👋 Aquí un Desarrollador de Software que sospecha que su pasatiempo favorito es coleccionar pestañas de navegador con "cómo hacer X".
 ***
 
 ### **IAPA (Investigar, Aprender, Programar, AGAIN🔄)**
