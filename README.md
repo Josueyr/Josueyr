@@ -1,11 +1,16 @@
-# ![ALL OK](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvaTFxcTYxNzI2cGwwN3FqdnljZXFid2c3cTQzNWRtMm04NDlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
- 
-#### 👋 Aquí un Desarrollador de Software que sospecha que su pasatiempo favorito es coleccionar pestañas de navegador con "cómo hacer X".
+## ¡Hi! 👋
+>####  Aquí un Desarrollador de Software que sospecha que su pasatiempo favorito es coleccionar pestañas de navegador con "cómo hacer X".
+> ![ALL OK](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvaTFxcTYxNzI2cGwwN3FqdnljZXFid2c3cTQzNWRtMm04NDlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 ***
 
-### **IAPA (Investigar, Aprender, Programar, AGAIN🔄)**
+## 🤖 Interés Actual: IA aplicada a .NET
 
+> Explorando cómo integrar soluciones de **Inteligencia Artificial** en aplicaciones **.NET Core**, combinando lo mejor del desarrollo tradicional con las tecnologías más innovadoras.
 ***
+
+### 🎯 Proyectos: <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square&logo=hourglass-start&logoColor=white" alt="In Progress" />
+
+---
 
 ## 🚀 Tecnologías y Habilidades
 
