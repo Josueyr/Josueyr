@@ -1,46 +1,26 @@
-## ¡Hi! 👋
->####  Aquí un Desarrollador de Software que sospecha que su pasatiempo favorito es coleccionar pestañas de navegador con "cómo hacer X".
-> ![ALL OK](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvaTFxcTYxNzI2cGwwN3FqdnljZXFid2c3cTQzNWRtMm04NDlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
-***
+# 👋 Bienvenido
 
-## 🤖 Interés Actual: IA aplicada a .NET
-
-> Explorando cómo integrar soluciones de **Inteligencia Artificial** en aplicaciones **.NET Core**, combinando lo mejor del desarrollo tradicional con las tecnologías más innovadoras.
-***
-
-### 🎯 Proyectos: <img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square&logo=hourglass-start&logoColor=white" alt="In Progress" />
+Soy **Desarrollador Backend especializado en .NET**, con experiencia en la construcción de aplicaciones web robustas y escalables.  
+Mi enfoque actual está en la **aplicación de Inteligencia Artificial en el ecosistema .NET**, explorando cómo estas tecnologías pueden aportar valor en entornos corporativos.
 
 ---
 
-## 🚀 Tecnologías y Habilidades
+## 🚀 Tecnologías y Herramientas
 
-* **Lenguajes de Programación:**
-
-    * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    * ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-    * ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-* **Bases de Datos:** 
-
-    * ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    * ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-* **Frameworks y Librerías:**
-
-    * ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-    * ![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-    * ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-    * ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-    * ![DevOps](https://img.shields.io/badge/DevOps-0077B9?style=for-the-badge&logo=devops&logoColor=white) 
-* **Desarrollo Web:**
-
-    * ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    * ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    * ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-* **Metodologías:**
-    * ![Agile](https://img.shields.io/badge/Agile-2091EB?style=for-the-badge&logo=jira&logoColor=white)
+- **Lenguajes**: C#, JavaScript, Java, Visual Basic .NET  
+- **Bases de Datos**: SQL Server, MySQL  
+- **Frameworks**: .NET, Razor, Bootstrap, JWT  
+- **Desarrollo Web**: HTML, CSS, jQuery  
+- **Metodologías**: Agile, DevOps  
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🎯 Interés Actual
 
-* **LinkedIn:** [www.linkedin.com/in/josueyanes](https://www.linkedin.com/in/josueyanes)
+Integración de **Inteligencia Artificial aplicada a .NET** para optimizar procesos y mejorar la toma de decisiones en proyectos de software.
+
+---
+
+## 🌐 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/josueyanes)
