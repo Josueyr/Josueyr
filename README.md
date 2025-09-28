@@ -1,4 +1,4 @@
-# 👋 Bienvenido
+# 👋 Bienvenid@
 
 Soy **Desarrollador especializado en .NET**, con experiencia en la construcción de aplicaciones web robustas, escalables y mantenibles.  
 Me apasiona aplicar **buenas prácticas de desarrollo** y explorar nuevas tecnologías que aporten valor real en entornos corporativos.
