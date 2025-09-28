@@ -1,23 +1,46 @@
 # 👋 Bienvenido
 
-Soy **Desarrollador Backend especializado en .NET**, con experiencia en la construcción de aplicaciones web robustas y escalables.  
-Mi enfoque actual está en la **aplicación de Inteligencia Artificial en el ecosistema .NET**, explorando cómo estas tecnologías pueden aportar valor en entornos corporativos.
+Soy **Desarrollador especializado en .NET**, con experiencia en la construcción de aplicaciones web robustas, escalables y mantenibles.  
+Me apasiona aplicar **buenas prácticas de desarrollo** y explorar nuevas tecnologías que aporten valor real en entornos corporativos.
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Competencias
 
-- **Lenguajes**: C#, JavaScript, Java, Visual Basic .NET  
-- **Bases de Datos**: SQL Server, MySQL  
-- **Frameworks**: .NET, Razor, Bootstrap, JWT  
-- **Desarrollo Web**: HTML, CSS, jQuery  
-- **Metodologías**: Agile, DevOps  
+### Backend
+- .NET (Framework & Core)  
+- Razor Pages / MVC  
+
+### Frontend
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- jQuery, Bootstrap  
+
+### Bases de Datos
+- Microsoft SQL Server  
+- MySQL  
+
+### Autenticación & Seguridad
+- JWT (JSON Web Tokens)  
+- Identity  
+
+### Prácticas de Desarrollo
+- Clean Code  
+- Clean Architecture  
+- Principios SOLID  
+
+### Entorno de Trabajo
+- Azure DevOps  
+- Git / GitHub  
+- Metodologías Ágiles (Scrum, Kanban)  
 
 ---
 
 ## 🎯 Interés Actual
 
-Integración de **Inteligencia Artificial aplicada a .NET** para optimizar procesos y mejorar la toma de decisiones en proyectos de software.
+- Exploración de la **Inteligencia Artificial aplicada a .NET**.  
+- Profundización en **arquitecturas limpias y escalables**.  
+- Mejora continua en **automatización y calidad de software**.  
 
 ---
 
