@@ -63,7 +63,7 @@ Soy un desarrollador FullStack especializado en el ecosistema .NET, con interés
 
   <tr>
     <td style="padding: 8px;"><b>🤖 Inteligencia Artificial</b></td>
-    <td style="padding: 8px;">Experiencia con Document Intelligence de Azure; actualmente aprendiendo integración de modelos generativos y semánticos</td>
+    <td style="padding: 8px;">Actualmente aprendiendo integración de modelos generativos y semánticos con Azure AI Foundry</td>
   </tr>
 </table>
 
@@ -85,8 +85,25 @@ _(Muy pronto agregaré proyectos completos con .NET, React y arquitectura limpia
 
 ### 📌 Proyectos Destacados
 
-- [🧠 DocumentIntelligence](https://github.com/TU_USUARIO/DocumentIntelligence) — API .NET para extraer y estructurar información de recibos y facturas usando NLP y OCR.
+<table>
+  <tr>
+    <th>Proyecto</th>
+    <th style="width: 60%;">Descripción</th>
+    <th>Tecnologías</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/josueyr/DocumentIntelligence">DocumentIntelligence</a></b></td>
+    <td>
+      API .NET para extraer y estructurar información de recibos y facturas usando NLP y OCR.<br>
+      💡 Procesamiento con Azure OpenAI y Cognitive Services.<br>
+      🚀 Ideal para contabilidad, facturación y gestión documental.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-9-blue?style=for-the-badge&logo=dotnet"><br>
+      <img src="https://img.shields.io/badge/Azure-OpenAI-lightblue?style=for-the-badge&logo=azure">
+    </td>
+  </tr>
+</table>
 
----
 
 <sub>⭐ Este perfil está en constante crecimiento. Muy pronto verás trabajos reales, proyectos de IA aplicada y despliegues completos.</sub>
