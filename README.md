@@ -72,19 +72,6 @@ Soy un desarrollador FullStack especializado en el ecosistema .NET, con interés
 
 ## 🔍 Proyectos Destacados
 
-_(Muy pronto agregaré proyectos completos con .NET, React y arquitectura limpia)_
-
----
-
-## 📫 Contacto
-
-- 📧 josue.yanrod@gmail.com 
-- 💼 [LinkedIn](https://linkedin.com/in/josueyr)  
-
----
-
-### 📌 Proyectos Destacados
-
 <table>
   <tr>
     <th>Proyecto</th>
@@ -105,5 +92,11 @@ _(Muy pronto agregaré proyectos completos con .NET, React y arquitectura limpia
   </tr>
 </table>
 
+---
 
-<sub>⭐ Este perfil está en constante crecimiento. Muy pronto verás trabajos reales, proyectos de IA aplicada y despliegues completos.</sub>
+## 📫 Contacto
+
+- 📧 josue.yanrod@gmail.com 
+- 💼 [LinkedIn](https://linkedin.com/in/josueyr)  
+
+---
